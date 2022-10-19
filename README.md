@@ -5,7 +5,7 @@
 
 ## Summary
 
-These are some figures created using various GIS platforms over the past few years of my research. I have had to exclude some details and keep descriptions light due to data sensitivity. I also have experience mapping for industry, and specifically for an environmental consultancy company. Projects included GIS work for wind turbine develops, solar farm developments and major road upgrades. Mapping work included taskes related to visual impact assessments, noise surveys, air quality surveys, habitat surveys and more. I have not been able to include examples of consultancy work here due to data protection.
+These are some map figures created using various GIS platforms and programming softwares over the past few years of my research. Figure labels and descriptions are limited for data sensitivity reasons. I also have experience mapping for industry, and specifically for an environmental consultancy. Projects included GIS work for wind turbine develops, solar farm developments and major road upgrades. Mapping work included taskes related to visual impact assessments, noise surveys, air quality surveys, habitat surveys and more. I have not been able to include examples of consultancy work here due to data protection.
 
 Figure 1 (below): Global infection prevalence
 ![](https://raw.githubusercontent.com/tonysdatamodels/tonys_gis_portfolio/main/docs/Global%20Infection%20Figure.png)
