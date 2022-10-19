@@ -19,7 +19,7 @@ Figure 3 (below): Saiga antelope winter range and cattle numbers in Kazakhstan
 Figure 4 (below): Saiga antelope range and goat numbers in Mongolia
 ![](https://raw.githubusercontent.com/tonysdatamodels/tonys_gis_portfolio/main/docs/Saiga%20Range%20and%20Livestock%20Numbers%20Mongolia.png)
 
-Figure 5 (right): Sample types deer UK and Ireland
+Figure 5 (below): Sample types deer UK and Ireland
 ![](https://raw.githubusercontent.com/tonysdatamodels/tonys_gis_portfolio/main/docs/Sample%20Types%20Deer%20UK%20Ireland.png)
 
 Figure 6 (below): Sheep infection pressure southern african countries
