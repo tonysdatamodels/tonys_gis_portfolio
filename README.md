@@ -1,15 +1,13 @@
----
-title: "GIS Examples"
-author: "Tony Liam Brown"
-date: "19-10-2022"
-output: html_document
----
+
+##### GIS Examples"
+# Tony Liam Brown
+# date: 19-10-2022
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-#### Summary
+## Summary
 
 These are just some figures created using various GIS platforms in the past few years in my research, although I have had to exclude some details due to data sensitivity. I also have experience mapping for an environmental consultancy company for projects including wind turbine develops and solar farm developments.Mapping included for visual impact assessments, noise surveys, air quality surveys, habitat surveys and more.
 
