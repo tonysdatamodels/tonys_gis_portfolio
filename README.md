@@ -1,7 +1,7 @@
 
-##### GIS Examples"
-# Tony Liam Brown
-# date: 19-10-2022
+# GIS Examples"
+### Tony Liam Brown
+### date: 19-10-2022
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
