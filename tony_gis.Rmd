@@ -1,0 +1,46 @@
+---
+title: "GIS Examples"
+author: "Tony Liam Brown"
+date: "2022-10-19"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##### Summary
+
+These are just some example figures created using various GIS platforms in the past few years in my research. I also have experience however mapping for an environmental consultancy company including for visual impact assessments, noise surveys, air quality surveys, habitat surveys and more.
+
+
+Figure 1 (below): Global Infection Prevalence
+![](C:/Users/tonyb/OneDrive - Queen's University Belfast/8. Side Projects/github_pages/tony_gis/GIS Portfolio/Global Infection Figure.png)
+
+Figure 2 (below): Deer helminths study locations Europe
+![](C:/Users/tonyb/OneDrive - Queen's University Belfast/8. Side Projects/github_pages/tony_gis/GIS Portfolio/Deer Helminth Studies Europe.png)
+
+Figure 3 (below): Saiga Antelope winter range and cattle numbers per rayon in Kazakhstan
+![](C:/Users/tonyb/OneDrive - Queen's University Belfast/8. Side Projects/github_pages/tony_gis/GIS Portfolio/Saiga Range and Livestock Numbers Kazakhstan.png)
+
+Figure 4 (below): Saiga Antelope range and goat numbers per rayon in Mongolia
+![](C:/Users/tonyb/OneDrive - Queen's University Belfast/8. Side Projects/github_pages/tony_gis/GIS Portfolio/Saiga Range and Livestock Numbers Mongolia.png)
+Figure 5 (right): Sample types deer UK and Ireland
+![](C:/Users/tonyb/OneDrive - Queen's University Belfast/8. Side Projects/github_pages/tony_gis/GIS Portfolio/Sample Types Deer UK Ireland.png)
+
+
+Figure 6 (below): Sheep Infection Pressure Southern African Countries
+![](C:/Users/tonyb/OneDrive - Queen's University Belfast/8. Side Projects/github_pages/tony_gis/GIS Portfolio/Infection Pressure Southern Africa.png)
+
+
+Figure 7 (below): Interactive Sheep Infection Pressure Map Southern Africa
+![](C:/Users/tonyb/OneDrive - Queen's University Belfast/8. Side Projects/github_pages/tony_gis/GIS Portfolio/Interactive Infection Map.png)
+
+
+Figure 8 (below): Spatial Infection Simulation Model Roe and Fallow deer
+![](C:/Users/tonyb/OneDrive - Queen's University Belfast/8. Side Projects/github_pages/tony_gis/GIS Portfolio/Spatial Simulation Model.png)
+
+
+
+
+
