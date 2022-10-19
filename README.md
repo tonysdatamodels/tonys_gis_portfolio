@@ -1,10 +1,10 @@
 
 # GIS Examples"
 ### Tony Liam Brown
-### date: 19-10-2022
+### Date: 19-10-2022
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = False)
 ```
 
 ## Summary
