@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = False)
 These are just some figures created using various GIS platforms in the past few years in my research, although I have had to exclude some details due to data sensitivity. I also have experience mapping for an environmental consultancy company for projects including wind turbine develops and solar farm developments.Mapping included for visual impact assessments, noise surveys, air quality surveys, habitat surveys and more.
 
 
-![Figure 1 (below): Global Infection Prevalence](https://raw.githubusercontent.com/tonysdatamodels/tonys_gis_portfolio/main/docs/Global%20Infection%20Figure.png)
+!["Figure 1 (below): Global Infection Prevalence"](https://raw.githubusercontent.com/tonysdatamodels/tonys_gis_portfolio/main/docs/Global%20Infection%20Figure.png)
 
 Figure 2 (below): Deer helminths study locations Europe
 ![](https://raw.githubusercontent.com/tonysdatamodels/tonys_gis_portfolio/main/docs/Deer%20Helminth%20Studies%20Europe.png)
